@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "codeguardian",
+      "description": "Multi-agent code security reviewer with 95.74% F1 accuracy and 0.43s scans across 13 OWASP and CWE categories."
+    },
+    {
+      "repo": "VeriFi",
+      "description": "Real-time fraud detection at 155.8 TPS with 12ms p95 latency across a distributed Kafka pipeline on GKE."
+    },
+    {
+      "repo": "DevLens",
+      "description": "Developer productivity agent built on Google ADK with MCP integration, deployed on Google Cloud Run."
+    },
+    {
+      "repo": "nvda-nemotron-agent",
+      "description": "5-phase agentic pipeline that surfaced research gaps across 250M+ papers using parallel Nemotron LLM agents."
+    }
+  ]
+}

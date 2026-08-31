@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python",               "value": 90 },
+    { "label": "Distributed Systems",  "value": 85 },
+    { "label": "Agentic AI",           "value": 85 },
+    { "label": "Cloud (AWS/GCP)",      "value": 85 },
+    { "label": "Kubernetes",           "value": 80 },
+    { "label": "RAG / LLMs",           "value": 80 },
+    { "label": "Java",                 "value": 75 },
+    { "label": "Databases",            "value": 75 }
+  ]
+}
